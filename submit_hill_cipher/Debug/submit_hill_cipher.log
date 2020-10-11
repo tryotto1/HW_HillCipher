@@ -1,0 +1,3 @@
+﻿  submit.cpp
+C:\Users\tryot\source\repos\submit_hill_cipher\submit_hill_cipher\submit.cpp(26,198): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  submit_hill_cipher.vcxproj -> C:\Users\tryot\source\repos\submit_hill_cipher\Debug\submit_hill_cipher.exe
